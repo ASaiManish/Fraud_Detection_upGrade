@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print('This has code for model 3')
+
+print('Model 2 is better than 2 models')
